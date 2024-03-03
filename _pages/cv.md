@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV Download](https://alfadhils.github.io/files/CV.pdf)
+
 Education
 ======
 * B.E. in Electrical Engineering, University of Indonesia, **Jan 2024**.
