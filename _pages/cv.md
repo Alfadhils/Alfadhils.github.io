@@ -16,6 +16,7 @@ Education
 * B.E. in Electrical Engineering, University of Indonesia, **Jan 2024**.
   * Thesis : [Optimizing Long-Term Biomass Supply Chains: A Deep Learning and Mixed Integer Linear Programming Approach](https://github.com/Alfadhils/Spatio-Temporal-Biomass-Feedstock-Nowcasting)
   * Capstone Project : [YOLOv8-CRNN-Scene-Text-Recognition](https://github.com/Alfadhils/YOLOv8-CRNN-Scene-Text-Recognition)
+* Machine Learning Fundamentals Nanodegree, Udacity, **Present**.
 * AI Programming with Python Nanodegree, Udacity, **Dec 2023**.
   * Capstone Project : [PyTorch Custom Trained Classifier CLI Application](https://github.com/Alfadhils/AI-Programming-With-Python-Nanodegree)
 
@@ -59,3 +60,7 @@ Leadership and Activities
   * Implemented Reinforcement Learning on an AWS DeepRacer cloud-based racing simulation, completing 3 laps in under time constraints.
   * Develop a CLI application for dog breed classification using pre-trained models.
   * Develop a CLI application to fine-tune a pre-trained Torchvision models for flower classification, complete with an inference.
+
+* AWS Advanced ML/AI Scholarship, Udacity, 2024 Cohort,**Apr 2024 - Present**.
+  * Selected as one of 500 participants worldwide through the alumni pool of previous program.
+  * Developed an application for AutoML framework, Computer Vision, and Real Industry Projects using AWS SageMaker and other resources.
