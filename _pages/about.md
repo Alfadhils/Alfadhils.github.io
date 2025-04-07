@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-An aspiring Data and AI Professional.
+IT Cloud Architect and ML/Gen AI Specialist
 
 About Me
-======
-I am a passionate data intelligence professional committed to revolutionizing business operations through cutting-edge digital technologies. With [international certifications](https://alfadhils.github.io/portfolio/) and a solid history of delivering transformative solutions, I am currently leveraging my expertise as a remote AI engineer, specializing in the development of advanced AI solutions for diverse software and systems.
+===
 
-I am deeply passionate about problem-solving, especially when it comes to leveraging the potential of data and AI. I excel at facing challenges head-on, utilizing data as my guide to navigate complexities and devise inventive solutions. Actively pursuing intriguing projects not only broadens my knowledge but also satisfies my curiosity. Through these [projects](https://alfadhils.github.io/year-archive/), I gain exposure to the latest tech research and trends, enabling me to continually grow and expand my practical skills in the ever evolving tech landsacape.
+I am an IT Architect at bank **bjb**, with a background in Electrical Engineering from the University of Indonesia, graduated in just 3.5 years with **cum laude** distinction. In my role, I am responsible for initiatives in Emerging Technology **Research & Development**, **Cloud Architecture and Migration**, as well as Enterprise **System Modernization**—all while ensuring **compliance** with the strict regulatory standards of the financial services industry.
 
-I specialize in the analysis of extensive datasets, distilling valuable insights using interactive dashboards and detailed reports. Moreover, I have a knack for crafting and deploying optimization algorithms and AI models, whether on edge devices or within cloud computing environments. My aim is to enhance efficiency and catalyze growth across diverse domains by leveraging cutting-edge technologies in today's digital world.
+My professional journey at bank **bjb** began in 2024 through the prestigious IT Future Leader Development Program. During this program, I honed both technical and leadership skills, emerging as the **second-highest scoring graduate**. I was also honored with the **Best Final Project Team Award** for developing the Credit Line Management System (CLMS), a solution designed to reduce operational risk through digitalization, integration, and automation.
 
-Feel free to explore this [personal website](https://alfadhils.github.io/) to delve deeper into my professional background, educational achievements, notable projects, and connect with me through various media channels such as LinkedIn and GitHub. I'm always open to new opportunities, collaborations, and conversations with fellow enthusiasts in the field. Let's connect and embark on an exciting journey of innovation together.
+I bring a multifaceted skill set in **Cloud Computing** (especially on AWS), **Data and AI**, and **Full-Stack Development**. My capabilities are validated through globally recognized certifications such as **AWS Certified Solutions Architect – Associate** and **AWS Certified Machine Learning Engineer – Associate**. I am also a recipient of **Advanced ML/AI Scholarship** from AWS, reflecting both my technical depth and commitment to lifelong learning.
+
+I thrive in fast-paced, collaborative environments where autonomy, impact, and quality are valued. I’m always eager to take on new challenges, explore innovative ideas, and deliver solutions that make a measurable difference.
+
+Explore my [personal website](https://alfadhils.github.io/) to learn more about my certifications, projects, and professional journey. I welcome opportunities for collaboration and impactful work in forward-thinking organizations.
+
