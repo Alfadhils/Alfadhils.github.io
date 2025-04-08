@@ -10,65 +10,56 @@ redirect_from:
 
 [CV Download](https://alfadhils.github.io/files/CV.pdf)
 
-Education
-=========
-
-* B.E. in Electrical Engineering, University of Indonesia, **Jan 2024**.
-  * Thesis : [Optimizing Long-Term Biomass Supply Chains: A Deep Learning and Mixed Integer Linear Programming Approach](https://github.com/Alfadhils/Spatio-Temporal-Biomass-Feedstock-Nowcasting)
-  * Capstone Project : [YOLOv8-CRNN-Scene-Text-Recognition](https://github.com/Alfadhils/YOLOv8-CRNN-Scene-Text-Recognition)
-* Machine Learning Fundamentals Nanodegree, Udacity, **Present**.
-* AI Programming with Python Nanodegree, Udacity, **Dec 2023**.
-  * Capstone Project : [PyTorch Custom Trained Classifier CLI Application](https://github.com/Alfadhils/AI-Programming-With-Python-Nanodegree)
-* AWS Machine Learning Fundamnetals Nanodegree, Udacity, **June 2024**
-  * Capstone Project : Build an AWS ML Pipeline for Scones Unlimited on AWS Sagemaker
+Skills
+======
+Machine Learning, Deep Learning, Generative AI, Data Engineering, Data Science, Data Analysis, Full Stack Developer, AWS, GCP, TensorFlow, PyTorch, Hugging Face, LangChain.
 
 Work experience
 ===============
+* **IT Architect** at [bank bjb](https://bankbjb.co.id/), **Feb 2024 - Present**.
+  * Conducted research and development for 5 key enterprise IT initiatives, including internal Generative AI, ATM & CRM monitoring systems, source code management for IBM iSeries, OpenShift virtualization, and IT asset management with CMDB integration.
+  * Supported cloud migration projects for 3 mission-critical systems—BJB Fast, DIGI by Bank bjb, and Internet Banking Corporate—enhancing operational efficiency and scalability.
+  * Designed and implemented a Change Advisory Board Application that streamlines change documentation and ensures compliance, reducing operational risks.
 
-* Artificial Intelligence Engineer at [Angusta Systems](https://www.angusta.com/), **Mar 2024 - June 2024**.
+* **IT Future Leader Development Program** at [bank bjb](https://bankbjb.co.id/), **Aug 2024 - Feb 2025**.
+  * 1 month of online training focused on company insights and business knowledge and 6 months of onsite training covering both technical and soft skills development.
+  * Invested over 70 days in AWS onsite training, with 100+ hours on AWS Skill Builder—achieving 3 AWS Certifications, 8 Knowledge Badges, and all 8 Cloud Quest Badges.
+  * Attended 10+ leadership and communication sessions through Inlingua WSCC, significantly boosting professional growth.
+  * Finished as the 2nd highest scoring participant and led the Best Final Project Team Award-winning initiative, developing the Credit Line Management System (CLMS) to reduce operational risk via digitalization, integration, and automation.
 
-  * Spearheaded the design, development, and implementation of an AI Assisted Predictive System for client software products.
-  * Engineered a simulation algorithm and AutoML pipeline, streamlining access to predictive models with significant performance enhancements.
-  * Conducted extensive research and implementation on LLMs and Generative AI for company and client innovation, focusing on applications such as clinical notes extraction, RAG supported content generation, and on-demand consultation system with speech-to-text capabilities.
-* Digitalization Engineer Intern at [PT. Mitsubishi Krama Yudha Motors and Manufacturing](https://www.ptmkm.co.id/), **Feb 2023 - Aug 2023**.
+* **Artificial Intelligence Engineer** at [Angusta Systems](https://www.angusta.com/), **Mar 2024 - Jun 2024**.
+  * Developed a computer vision-based remote oral health assessment that reduced dental visits by up to 50% while maintaining optimal oral health.
+  * Executed proof-of-concept projects for 3 healthcare LLM applications including clinical notes extraction, RAG-driven content generation, and speech-to-text consultation—driving future product innovation.
 
-  * Developed an OEE Monitoring Dashboard and Maintenance System utilizing SCADA system as a company-wide digitalization effort, contributing to a 12% increase in asset productivity.
-  * Managed SQL Server databases using SSMS and develop a real-time data processing pipeline for seamless OEE calculation and performance analysis on two production lines. Reducing time spent on manual tasks.
+* **Digitalization Engineer** at [PT. Mitsubishi Krama Yudha Motors and Manufacturing](https://www.ptmkm.co.id/), **Feb 2023 - Aug 2023**.
+  * Developed an OEE Monitoring Dashboard and Maintenance System by utilizing SCADA as a company-wide digitalization effort, contributing to a 12% increase in asset productivity across two production lines.
   * Designed 10+ interactive web dashboards and forms using ICONICS for comprehensive OEE monitoring, allowing real-time analysis, data collection, and troubleshooting for production losses.
-* Cloud Engineer Intern at [Torche Education](https://torche.app), **Nov 2022 - Feb 2023**.
 
-  * Elevated GCP cloud infrastructure to new heights of stability, scalability, and security. implemented a comprehensive dashboard and alert system, ensuring proactive management and optimization.
+* **Cloud Engineer** at [Torche Education](https://torche.app), **Nov 2022 - Feb 2023**.
   * Spearheaded research initiatives on Multi-cloud and SaaS infrastructure, providing valuable insights that directly influenced the direction of future company projects and initiatives.
   * Attained certifications in Alibaba Cloud and GCP, underscoring expertise in cloud computing and a commitment to continuous professional development.
 
-Skills
-======
+Education
+=========
 
-* **Python** (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Plotly Dash, Tensorflow, Keras, PyTorch, Apache Spark, Airflow, Apache Kafka)
-* **SQL** (SQL Server, MySQL, PostgreSQL, Big Query)
-* **Javascript** (NodeJs, ReactJS)
-* **MATLAB**
-* **C/C++**
-* **R** (ggplot, tidyr, dplry)
-* **Tableau**
-* **Cloud Computing** (GCP, AWS, Alibaba Cloud)
-* **Docker**
+* **B.E. in Electrical Engineering**, University of Indonesia, **Aug 2020 - Mar 2024**.
+  * **GPA** : 3.67 **(CumLaude)**
+  * **Thesis** : [Optimizing Long-Term Biomass Supply Chains: A Deep Learning and Mixed Integer Linear Programming Approach](https://github.com/Alfadhils/Spatio-Temporal-Biomass-Feedstock-Nowcasting)
+  * **Capstone Project** : [YOLOv8-CRNN-Scene-Text-Recognition](https://github.com/Alfadhils/YOLOv8-CRNN-Scene-Text-Recognition)
+  * **Remarks** : One year contract as lecturer’s assistant for electrical physics course
+* **AWS Advanced ML/AI Scholarship Cohort 2024**, Udacity, **Apr 2024 - Jun 2024**
+  * Completed the **AWS Machine Learning Fundamentals Nanodegree**
+  * Selected as one of 500 awardees worldwide through the pool of alumni from previous program.
+  * Developed an end-to-end ML Workflow in AWS Setting utilizing training jobs, endpoints, lambda function, and step function tailored for real-world business use cases.
+  * **Capstone Project** : Build an AWS ML Pipeline for Scones Unlimited on AWS Sagemaker
+* **AWS ML/AI Scholarship Winter Cohort 2023**, Udacity, **Oct 2023 - Dec 2023**
+  * Completed the **AI Programming with Python Nanodegree**
+  * Selected as one of 2000 awardees worldwide through international selection process.
+  * Developed a CLI application for dog breed classification and flower classification utilizing PyTorch with best practices to achieve state-of-the-art performance
+  * **Capstone Project** : [PyTorch Custom Trained Classifier CLI Application](https://github.com/Alfadhils/AI-Programming-With-Python-Nanodegree)
 
-Leadership and Activities
+Organization
 =========================
-
-* Head Division of Academics and Profession at [Ikatan Mahasiswa Elektro (IME) FTUI 2022](https://ime.eng.ui.ac.id/#:~:text=IME%20FTUI%20adalah%20sebuah%20organisasi%20yang%20bergerak%20dalam,melayani%20mahasiswa%20dalam%20Departemen%20Teknik%20Elektro%20Universitas%20Indonesia), **Dec 2021 - Dec 2022**.
-
+* **Division Head of Academics and Profession** at [Ikatan Mahasiswa Elektro (IME) FTUI 2022](https://ime.eng.ui.ac.id/#:~:text=IME%20FTUI%20adalah%20sebuah%20organisasi%20yang%20bergerak%20dalam,melayani%20mahasiswa%20dalam%20Departemen%20Teknik%20Elektro%20Universitas%20Indonesia), **Dec 2021 - Dec 2022**.
   * Led a 20-member team to advocate the academic and postgraduate needs of 500+ electrical engineering students.
   * Conducted 7 work programs and implemented 6 habits, including alumni sharing sessions and certification initiatives.
-* AWS ML/AI Scholarship, Udacity, 2023 Winter Cohort,**Oct 2023 - Dec 2023**.
-
-  * Selected as one of 1000 participants worldwide through international selection process.
-  * Implemented Reinforcement Learning on an AWS DeepRacer cloud-based racing simulation, completing 3 laps in under time constraints.
-  * Develop a CLI application for dog breed classification using pre-trained models.
-  * Develop a CLI application to fine-tune a pre-trained Torchvision models for flower classification, complete with an inference.
-* AWS Advanced ML/AI Scholarship, Udacity, 2024 Cohort,**Apr 2024 - Present**.
-
-  * Selected as one of 500 participants worldwide through the alumni pool of previous program.
-  * Developed an AutoML development pipeline using AWS Sagemaker for rapid model development.
-  * Developed an extensive cloud-based ML Workflow in AWS Setting utilizing training jobs, endpoints, lambda function, and step function for business needs.
