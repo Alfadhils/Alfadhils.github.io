@@ -1,10 +1,11 @@
 ---
-title: "IBM Data Science Professional Certification"
-excerpt: "Graduation Certificate of IBM Data Science Program <br/><img src='/images/IBM_DatSci.png'>"
+title: "Google IT Automation with Python Professional Certification"
+excerpt: "Graduation Certificate of Google IT Automation with Python Program <br/><img src='/images/Google_Python.png'>"
 collection: portfolio
 ---
 
-This portfolio contains projects completed as part of the IBM Data Science Professional Certification program offered by Coursera. The program consisted of 10 distinct courses designed to prepare individuals for entry-level data scientist positions. The capstone project provides hands-on practice in the form of a data science case study, utilizing all the knowledge acquired throughout the program:
-1. SpaceX Landing Analysis and Predictions for Cost Effectiveness
-
-You can access the full program [here](https://github.com/Alfadhils/IBM-Data-Science-Capstone-Project) 
+This portfolio contains projects completed as part of the Google IT Automation with Python Professional Certification program offered by Coursera. The program consisted of 6 distinct courses related to IT infrastructure and automation. The capstone project provides a series of hands-on practice in the form of automating tasks using python, utilizing all the knowledge acquired throughout the program :
+1. Image Processing using PIL API
+2. Web services text processing pipeline
+3. Automated report generation and email
+4. Automated catalog information reports
